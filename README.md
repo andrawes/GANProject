@@ -30,7 +30,7 @@ explore the reasons behind this and suggest a possible, (but expensive) way of s
 ## Some helpful material to understand Capsule Networks and Dynamic Routing: 
 [Original Paper] (https://arxiv.org/pdf/1710.09829.pdf)
 
-Explanation Video by Aurélien Géron [https://www.youtube.com/watch?v=pPN8d0E3900] 
+[Explanation Video by Aurélien Géron](https://www.youtube.com/watch?v=pPN8d0E3900)
 
 ## References:
 [1] - Dynamic Routing Between Capsules. S.Sabor, N.Frosst, G.Hinton
