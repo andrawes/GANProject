@@ -2,6 +2,7 @@
 
 ## About
 This project is a shot experiment in combining Generative Adversarial Networks with Capsule Networks [1].
+
 Undertaken at ETH Zurich, as a short semester project, by Andrawes Al Bahou at the Computer Vision Lab (Prof. Luc Van Gool).
 
 ## Abstract
@@ -28,7 +29,7 @@ explore the reasons behind this and suggest a possible, (but expensive) way of s
 
 
 ## Some helpful material to understand Capsule Networks and Dynamic Routing: 
-[Original Paper] (https://arxiv.org/pdf/1710.09829.pdf)
+[Original Paper](https://arxiv.org/pdf/1710.09829.pdf)
 
 [Explanation Video by Aurélien Géron](https://www.youtube.com/watch?v=pPN8d0E3900)
 
